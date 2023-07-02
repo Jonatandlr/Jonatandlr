@@ -4,8 +4,11 @@
   I´m a mechatronics engineering student of ITESM who loves programming.<br/>
   I can adapt to any situation that arises. What I don't know, I learn.
 </section>  
+<section>
 
-
+</section>
+  <h2>Contact</h2>
+  
 <section>
   <h2>About me</h2>
   - Proximamente... 
