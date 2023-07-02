@@ -3,7 +3,8 @@
   <h2 >✨Hii!, I'm Jonatan ✨</h1>
   I´m a mechatronics engineering student of ITESM who loves programming.<br/>
   I can adapt to any situation that arises. What I don't know, I learn.
-</section>  
+</section> 
+[alt text](https://img.shield.io/badge/text-text-E4405F?style=&logo=)
 <section>
 
 </section>
