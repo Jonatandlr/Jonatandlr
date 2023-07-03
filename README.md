@@ -33,9 +33,15 @@ I can adapt to any situation that arises. What I don't know, I learn.
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg' title='GIT' alt='GIT' width=50px height=50px/>
   <img src='https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github'  height=50px />
   <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg'  height=50px />
-  
 </div>
 
+
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatandlr&theme=monokai&layout=compact)
+<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jonatandlr&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 
 
