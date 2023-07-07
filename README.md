@@ -43,9 +43,7 @@ I can adapt to any situation that arises. What I don't know, I learn.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatandlr&theme=monokai&layout=compact)
 <br/>
 
-    //**
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jonatandlr&theme=monokai&hide_border=true)](https://git.io/streak-stats)
-    **//
+
 
 
 
